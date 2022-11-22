@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BianFlower2077 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "BianFlower2077 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
